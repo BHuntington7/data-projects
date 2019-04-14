@@ -1,0 +1,5 @@
+House Pricing Project based on data from Kaggle
+
+This project focuses on data cleaning, label encoding, and machine learning models for predicting the price of houses. A random forest
+model is trained and optimal hyper-parameters are found. Predictions are then made using this model and the results give an error of 0.14359
+on the test set.
