@@ -1,0 +1,8 @@
+My Performance: Ranked 156/1478
+
+This is the code I used to compete in Kaggle's competition, "CareerCon 2019 - Help Navigate Robots". This project is a classification
+problem using time series data from acceleration, orientation, and angular velocity sensors on a robot to predict what kind of surface
+the robot is maneuvering on (eg concrete, carpet, tile etc.). For feature selection, I used a library called tsfresh which you can find
+here: https://tsfresh.readthedocs.io/en/latest/
+
+An academic paper by B.D. Fulcher that inspired this strategy can be found here:  https://arxiv.org/abs/1401.3531
