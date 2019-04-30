@@ -4,4 +4,5 @@ set. This is done using word embeddings and a convolutional neural network along
 This project has two python files. The first, vectorparser.py, is pre-processing script that gets the pre-trained word embedding vectors 
 ready for use in the embedding layer of the neural network.
 
-The second python script builds the neural network, trains the neural network, and then saves the learned weights to a file.
+The second python script, embedding_corrected, builds the neural network, trains the neural network, and then saves the learned weights
+to a file.
