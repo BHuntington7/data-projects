@@ -1,5 +1,4 @@
-The purpose of this project is to create a machine learning algorithm that can identify questions that are similar from the AskUbuntu data set. 
-This is done using word embeddings and a convolutional neural network along with a cosine similarity criteria to identify such pairs.
+The purpose of this project is to create a machine learning algorithm that can identify questions that are similar from the AskUbuntu data set. This is done using word embeddings and a convolutional neural network along with a cosine similarity criteria to identify such pairs.
 
 This project has two python files. The first, vectorparser.py, is pre-processing script that gets the pre-trained word embedding vectors 
 ready for use in the embedding layer of the neural network.
